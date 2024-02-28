@@ -6,7 +6,7 @@ for i in range(n):
     words.append(word)
 
 sentence = ' '.join(words)
-print("what what what", sentence)
+print("what", sentence)
 words = []
 
 while True:
