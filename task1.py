@@ -7,6 +7,7 @@ for i in range(n):
 
 sentence = ' '.join(words)
 print("what", sentence)
+
 words = []
 
 while True:
